@@ -2,14 +2,14 @@
 
 **Last updated:** 2026-10-25  
 **Current phase:** Phase 1 — Data feasibility validation  
-**Overall status:** Repository initialized; data validation has not yet been completed.
+**Overall status:** Preliminary administrative-boundary source review completed; no boundary file has yet been downloaded or validated.
 
 ## Workstream status
 
 | ID | Item | Status | Evidence / next action |
 |---|---|---|---|
-| ADMIN-01 | Chaonan District boundary | Not verified | Find a public download source; download and inspect the file |
-| ADMIN-02 | All 11 town-level boundaries | Not verified | Highest-priority dependency; verify coverage and names |
+| ADMIN-01 | Chaonan District boundary | Candidate sources identified; not downloaded | Test a free district-level geometry source; inspect CRS, licence and geometry |
+| ADMIN-02 | All 11 town-level boundaries | No free complete polygon source confirmed | Investigate free OSM relations and other public sources; paid/approval-based options are not preferred |
 | OSM-01 | Guangdong OSM extract | Candidate identified | Download only after confirming suitable format; inspect actual coverage |
 | GHSL-01 | GHSL built-up product | Candidate identified | Select exact product/epoch; test download and inspect |
 | GHSL-02 | GHSL built surface product | Candidate identified | Verify product metadata, resolution, year and access |
