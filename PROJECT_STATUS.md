@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-10-25  
 **Current phase:** Phase 1 — Data feasibility validation  
-**Overall status:** Preliminary administrative-boundary source review completed; no boundary file has yet been downloaded or validated.
+**Overall status:** Preliminary source research documented in GitHub; no boundary archive has been downloaded or validated in this environment.
 
 ## Workstream status
 
